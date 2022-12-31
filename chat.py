@@ -3,6 +3,7 @@ import json
 import openai as ai
 import torch
 from gpt3 import *
+import os
 
 from model import NeuralNet
 from nltk_utils import bag_of_words, tokenize
@@ -33,7 +34,7 @@ def get_response(msg):
     X = bag_of_words(sentence, all_words)
     X = X.reshape(1, X.shape[0])
     X = torch.from_numpy(X).to(device)
-    ai.api_key = "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"
+    ai.api_key = os.environ['openai_api_key']
 
     completion = ai.Completion()
     question = ""
