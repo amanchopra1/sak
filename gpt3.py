@@ -15,7 +15,7 @@ def modify_start_message(chat_log,question,answer) -> str:
     return chat_log
 
 if __name__ == "__main__":
-    ai.api_key = "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"
+    ai.api_key = "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"
 
     completion = ai.Completion()
 
