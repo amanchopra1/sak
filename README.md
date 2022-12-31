@@ -1,6 +1,10 @@
-# Development of a conversational Chatbot which provides to be a friend who listens and gives solutions to one's problems related to mental health, lifestyle, and goals of life concerning the ultimate guide Bhagwat Gita 
+# Sakha ||NLTK & GPT 3 Conversational Chatbot
+
+ Development of a conversational Chatbot which provides to be a friend who listens and gives solutions to one's problems related to mental health, lifestyle, and goals of life concerning the ultimate guide Bhagwat Gita 
+
 
 In this project we have used NLTK, GPT3 and AI to give solution to every life problem's solution.
+
 
 This gives 2 deployment options:
 - Deploy within Flask app with jinja2 template
