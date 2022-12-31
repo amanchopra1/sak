@@ -33,7 +33,7 @@ def get_response(msg):
     X = bag_of_words(sentence, all_words)
     X = X.reshape(1, X.shape[0])
     X = torch.from_numpy(X).to(device)
-    ai.api_key = "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"
+    ai.api_key = "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"
 
     completion = ai.Completion()
     question = ""
