@@ -75,7 +75,7 @@ def get_response(msg):
     chat_log = start_chat_log
     prompt = f"{chat_log}Human: {question}\nSakha:"
     response = completion.create(prompt = prompt, engine =  "davinci", temperature = 0.85,top_p=1, frequency_penalty=0, 
-    presence_penalty=0.7, best_of=1,max_tokens=20,stop = "\nHuman: ")
+    presence_penalty=0.7, best_of=1,max_tokens=60,stop = "\nHuman: ")
     return response.choices[0].text
     
     
