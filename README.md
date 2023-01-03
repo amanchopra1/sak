@@ -1,7 +1,8 @@
 # Sakha || NLTK & GPT 3 Conversational Chatbot
 
  Development of a conversational Chatbot which provides to be a friend who listens and gives solutions to one's problems related to mental health, lifestyle, and goals of life concerning the ultimate guide Bhagwat Gita 
-
+ 
+Deployed at Digital Ocean https://sakha.chat
 
 In this project we have used NLTK, GPT3 and AI to give solution to every life problem's solution.
 
@@ -15,7 +16,7 @@ This repo currently contains all the files and the basic dataset of (Bhagavad Gi
 
 Clone repo and create a virtual environment
 ```
-$ git clone https://github.com/python-engineer/chatbot-deployment.git
+$ git clone (url)
 $ cd chatbot-deployment
 $ python3 -m venv venv
 $ . venv/bin/activate
