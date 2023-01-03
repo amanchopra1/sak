@@ -36,8 +36,8 @@ the following command to test it in the console.
 $ (venv) python chat.py
 $ (venv) python app.py
 
-```
 
+---------------------------------------------------------------------------------
 All Glories to Shri Krishna
 All Glories to Shrimad Bhagavad Gita
 All Glories to Shri Chaitanya Mahaprabhu
@@ -46,3 +46,4 @@ All Glories to all the Vaishnavas and enlightened souls of the universe
 
 Hare Krishna Hare Krishna Krishna Krishna Hare Hare
 Hare Raam Hare Raam Raam Raam Hare Hare
+----------------------------------------------------------------------------------------
