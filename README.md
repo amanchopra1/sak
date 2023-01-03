@@ -39,9 +39,13 @@ $ (venv) python app.py
 
 ---------------------------------------------------------------------------------
 All Glories to Shri Krishna
+
 All Glories to Shrimad Bhagavad Gita
+
 All Glories to Shri Chaitanya Mahaprabhu
+
 All Glories to Srila Prabhupaad
+
 All Glories to all the Vaishnavas and enlightened souls of the universe
 
 Hare Krishna Hare Krishna Krishna Krishna Hare Hare
