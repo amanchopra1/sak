@@ -3,6 +3,7 @@ import json
 import openai as ai
 import torch
 from gpt3 import *
+import os
 
 from model import NeuralNet
 from nltk_utils import bag_of_words, tokenize
