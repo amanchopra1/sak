@@ -38,6 +38,7 @@ $ (venv) python app.py
 
 
 ---------------------------------------------------------------------------------
+```
 All Glories to Shri Krishna
 
 All Glories to Shrimad Bhagavad Gita
@@ -61,6 +62,6 @@ Vaibhav Deep Jaiswal (https://www.linkedin.com/in/vaibhav-deep-jaiswal-12ba7b1a5
 Abhishek Kumar Rai (https://www.linkedin.com/in/abhishek-rai-692397227/)
 
 Yogendra Bhardwaj (https://www.linkedin.com/in/bh-yogendra/)
-```
+
 
 ----------------------------------------------------------------------------------------
