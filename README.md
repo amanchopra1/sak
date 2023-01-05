@@ -18,6 +18,10 @@ This repo currently contains all the files and the basic dataset of (Bhagavad Gi
 The below commands are for Unix/Linux System
 
 Clone repo and create a virtual environment
+
+Get your api key for gpt-3 (46th line chat.py)
+https://beta.openai.com/account/api-keys
+
 ```
 $ git clone https://github.com/amanchopra1/sak.git
 $ cd sak
@@ -48,7 +52,9 @@ $ (venv) python train.py
 ```
 This will dump data.pth file. And then run
 the following command to test it in the console.
+
 ```
+
 $ (venv) python chat.py
 $ (venv) python app.py
 
