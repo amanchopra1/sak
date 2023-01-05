@@ -23,7 +23,7 @@ $ . venv/bin/activate
 ```
 Install dependencies
 ```
-$ (venv) pip install -r requirement.txt
+$ (venv) pip install -r requirements.txt
 ```
 ```
 Run
