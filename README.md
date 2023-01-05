@@ -5,7 +5,7 @@
 Deployed at Digital Ocean https://sakha.chat
 
 In this project we have used NLTK, GPT3 and AI to give solution to every life problem's solution.
-
+Read Design and Implementation of Sakha : https://drive.google.com/file/d/14ounQHekbmhJEz2P5bnFEi9PXZhH4f57/view?usp=sharing
 
 This gives 2 deployment options:
 - Deploy within Flask app with jinja2 template
@@ -50,4 +50,12 @@ All Glories to all the Vaishnavas and enlightened souls of the universe
 
 Hare Krishna Hare Krishna Krishna Krishna Hare Hare
 Hare Raam Hare Raam Raam Raam Hare Hare
+
+You can reach us at: 
+Aastha Tripathi (https://www.linkedin.com/in/aastha-tripathi-6601641ba/)
+Aman Chopra (https://www.linkedin.com/in/amanchopra9/)
+Vaibhav Deep Jaiswal (https://www.linkedin.com/in/vaibhav-deep-jaiswal-12ba7b1a5/)
+Abhishek Kumar Rai (https://www.linkedin.com/in/abhishek-rai-692397227/)
+Yogendra Bhardwaj (https://www.linkedin.com/in/bh-yogendra/)
+
 ----------------------------------------------------------------------------------------
