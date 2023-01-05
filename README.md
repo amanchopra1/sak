@@ -1,6 +1,6 @@
 # Sakha || NLTK & GPT 3 Conversational Chatbot
 
- Development of a conversational Chatbot which provides to be a friend who listens and gives solutions to one's problems related to mental health, lifestyle, and goals of life concerning the ultimate guide Bhagwat Gita 
+ Development of a conversational Chatbot which provides to be a friend who listens and gives solutions to one's problems related to mental health, lifestyle, and goals of life concerning the ultimate guide Bhagavad Gita 
  
 Deployed at Digital Ocean https://sakha.chat
 
