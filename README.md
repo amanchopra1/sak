@@ -24,6 +24,16 @@ $ cd sak
 $ python3 -m venv venv
 $ . venv/bin/activate
 ```
+The below commands are for Windows
+```
+ pip install virtualenv
+ virtualenv venv
+ venvironment\Scripts\activate
+ ```
+ 
+
+
+
 Install dependencies
 ```
 $ (venv) pip install -r requirements.txt
