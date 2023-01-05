@@ -13,12 +13,14 @@ This gives 2 deployment options:
 - Serve only the Flask prediction API. The used html and javascript files can be included in any Frontend application (with only a slight modification) and can run completely separate from the Flask App then.
 
 ## Initial Setup:
-This repo currently contains all the files and the basic dataset of (Bhagavad Gita) which provides the ultimate guidance for life 
+This repo currently contains all the files and the basic dataset of (Bhagavad Gita) which provides the ultimate guidance for life
+
+The below commands are for Unix/Linux System
 
 Clone repo and create a virtual environment
 ```
-$ git clone (url)
-$ cd chatbot-deployment
+$ git clone https://github.com/amanchopra1/sak.git
+$ cd sak
 $ python3 -m venv venv
 $ . venv/bin/activate
 ```
