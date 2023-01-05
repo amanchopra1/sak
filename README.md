@@ -5,7 +5,7 @@
 Deployed at Digital Ocean https://sakha.chat
 
 In this project we have used NLTK, GPT3 and AI to give solution to every life problem's solution.
-Read Design and Implementation of Sakha : https://drive.google.com/file/d/14ounQHekbmhJEz2P5bnFEi9PXZhH4f57/view?usp=sharing
+Read Design and Implementation of Sakha to understand the working of this project: https://drive.google.com/file/d/14ounQHekbmhJEz2P5bnFEi9PXZhH4f57/view?usp=sharing
 
 This gives 2 deployment options:
 - Deploy within Flask app with jinja2 template
