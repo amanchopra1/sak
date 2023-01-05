@@ -53,9 +53,13 @@ Hare Raam Hare Raam Raam Raam Hare Hare
 
 You can reach us at: 
 Aastha Tripathi (https://www.linkedin.com/in/aastha-tripathi-6601641ba/)
+
 Aman Chopra (https://www.linkedin.com/in/amanchopra9/)
+
 Vaibhav Deep Jaiswal (https://www.linkedin.com/in/vaibhav-deep-jaiswal-12ba7b1a5/)
+
 Abhishek Kumar Rai (https://www.linkedin.com/in/abhishek-rai-692397227/)
+
 Yogendra Bhardwaj (https://www.linkedin.com/in/bh-yogendra/)
 
 ----------------------------------------------------------------------------------------
