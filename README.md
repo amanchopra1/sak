@@ -30,9 +30,12 @@ The below commands are for Windows
  virtualenv venv
  venvironment\Scripts\activate
  ```
- 
-
-
+ import nltk
+  ```
+ python
+>>> import nltk
+>>> nltk.download('punkt')
+ ```
 
 Install dependencies
 ```
